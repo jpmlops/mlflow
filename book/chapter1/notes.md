@@ -24,4 +24,11 @@ MLflow important points:
 
 > IMPORTANT: There are three different environments supported by MLFlows 1. Conda 2. Docker 3. Local System
 
+> MLproject file: the main file that defines how your project should look is the <MLproject> file
 
+> Folder Structure 
+
+|-- Dockerfile
+|-- MLproject  - important file for mlflow
+|-- README.md
+|-- train.py
